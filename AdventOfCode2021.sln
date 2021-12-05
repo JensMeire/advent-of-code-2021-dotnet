@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D4_GiantSquid", "D4_GiantSq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D4_GiantSquid.Tests", "D4_GiantSquid.Tests\D4_GiantSquid.Tests.csproj", "{2AD455BB-1527-4140-B678-47C03656024E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D5_HydrothermalVenture", "D5_HydrothermalVenture\D5_HydrothermalVenture.csproj", "{ECE6C95C-BB89-4841-83E2-3BC6C77E1D3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{2AD455BB-1527-4140-B678-47C03656024E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AD455BB-1527-4140-B678-47C03656024E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AD455BB-1527-4140-B678-47C03656024E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE6C95C-BB89-4841-83E2-3BC6C77E1D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE6C95C-BB89-4841-83E2-3BC6C77E1D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE6C95C-BB89-4841-83E2-3BC6C77E1D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE6C95C-BB89-4841-83E2-3BC6C77E1D3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
