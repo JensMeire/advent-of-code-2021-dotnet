@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3_BinaryDiagnostic", "D3_B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3_BinaryDiagnostic.Tests", "D3_BinaryDiagnostic.Tests\D3_BinaryDiagnostic.Tests.csproj", "{B8E74EE8-E401-46D5-972A-731019BB9895}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D4_GiantSquid", "D4_GiantSquid\D4_GiantSquid.csproj", "{C8E73FD4-D73B-4EE6-99EF-9C2B6B02A300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D4_GiantSquid.Tests", "D4_GiantSquid.Tests\D4_GiantSquid.Tests.csproj", "{2AD455BB-1527-4140-B678-47C03656024E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{B8E74EE8-E401-46D5-972A-731019BB9895}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8E74EE8-E401-46D5-972A-731019BB9895}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8E74EE8-E401-46D5-972A-731019BB9895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E73FD4-D73B-4EE6-99EF-9C2B6B02A300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E73FD4-D73B-4EE6-99EF-9C2B6B02A300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E73FD4-D73B-4EE6-99EF-9C2B6B02A300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E73FD4-D73B-4EE6-99EF-9C2B6B02A300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD455BB-1527-4140-B678-47C03656024E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD455BB-1527-4140-B678-47C03656024E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD455BB-1527-4140-B678-47C03656024E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD455BB-1527-4140-B678-47C03656024E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
