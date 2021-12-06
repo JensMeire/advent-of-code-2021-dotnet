@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D4_GiantSquid.Tests", "D4_G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D5_HydrothermalVenture", "D5_HydrothermalVenture\D5_HydrothermalVenture.csproj", "{ECE6C95C-BB89-4841-83E2-3BC6C77E1D3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D6_Lanternfish", "D6_Lanternfish\D6_Lanternfish.csproj", "{25FC08CD-CE3F-4711-B000-BA938BD39FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D6_Lanternfish.Tests", "D6_Lanternfish.Tests\D6_Lanternfish.Tests.csproj", "{5F0B9288-8B70-4934-969D-14FAF2EC9CCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{ECE6C95C-BB89-4841-83E2-3BC6C77E1D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECE6C95C-BB89-4841-83E2-3BC6C77E1D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECE6C95C-BB89-4841-83E2-3BC6C77E1D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25FC08CD-CE3F-4711-B000-BA938BD39FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25FC08CD-CE3F-4711-B000-BA938BD39FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25FC08CD-CE3F-4711-B000-BA938BD39FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25FC08CD-CE3F-4711-B000-BA938BD39FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0B9288-8B70-4934-969D-14FAF2EC9CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0B9288-8B70-4934-969D-14FAF2EC9CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0B9288-8B70-4934-969D-14FAF2EC9CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0B9288-8B70-4934-969D-14FAF2EC9CCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
