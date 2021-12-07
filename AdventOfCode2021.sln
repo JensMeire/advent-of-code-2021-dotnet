@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D6_Lanternfish", "D6_Lanter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D6_Lanternfish.Tests", "D6_Lanternfish.Tests\D6_Lanternfish.Tests.csproj", "{5F0B9288-8B70-4934-969D-14FAF2EC9CCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D7_TreacheryOfWhales", "D7_TreacheryOfWhales\D7_TreacheryOfWhales.csproj", "{8C73EAA7-C9B5-49FD-84E6-4995FE93E2CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{5F0B9288-8B70-4934-969D-14FAF2EC9CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F0B9288-8B70-4934-969D-14FAF2EC9CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F0B9288-8B70-4934-969D-14FAF2EC9CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C73EAA7-C9B5-49FD-84E6-4995FE93E2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C73EAA7-C9B5-49FD-84E6-4995FE93E2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C73EAA7-C9B5-49FD-84E6-4995FE93E2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C73EAA7-C9B5-49FD-84E6-4995FE93E2CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
