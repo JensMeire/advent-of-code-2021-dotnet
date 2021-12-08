@@ -22,6 +22,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D6_Lanternfish.Tests", "D6_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D7_TreacheryOfWhales", "D7_TreacheryOfWhales\D7_TreacheryOfWhales.csproj", "{8C73EAA7-C9B5-49FD-84E6-4995FE93E2CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D8_SevenSegmentSearch", "D8_SevenSegmentSearch\D8_SevenSegmentSearch.csproj", "{669EEDFC-8FE5-4069-8BA2-2DE8200E5E4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D8_SevenSegmentSearch.Tests", "D8_SevenSegmentSearch.Tests\D8_SevenSegmentSearch.Tests.csproj", "{973A2840-7ED1-49A1-BD2F-55A4FDD77F88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +76,13 @@ Global
 		{8C73EAA7-C9B5-49FD-84E6-4995FE93E2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C73EAA7-C9B5-49FD-84E6-4995FE93E2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C73EAA7-C9B5-49FD-84E6-4995FE93E2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669EEDFC-8FE5-4069-8BA2-2DE8200E5E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669EEDFC-8FE5-4069-8BA2-2DE8200E5E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669EEDFC-8FE5-4069-8BA2-2DE8200E5E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669EEDFC-8FE5-4069-8BA2-2DE8200E5E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973A2840-7ED1-49A1-BD2F-55A4FDD77F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973A2840-7ED1-49A1-BD2F-55A4FDD77F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973A2840-7ED1-49A1-BD2F-55A4FDD77F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973A2840-7ED1-49A1-BD2F-55A4FDD77F88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
