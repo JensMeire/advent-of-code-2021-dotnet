@@ -26,6 +26,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D8_SevenSegmentSearch", "D8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D8_SevenSegmentSearch.Tests", "D8_SevenSegmentSearch.Tests\D8_SevenSegmentSearch.Tests.csproj", "{973A2840-7ED1-49A1-BD2F-55A4FDD77F88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D9_SmokeBasin", "D9_SmokeBasin\D9_SmokeBasin.csproj", "{0FB3A3F5-00FD-4D05-BCFD-4EB86D435DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D9_SmokeBasin.Tests", "D9_SmokeBasin.Tests\D9_SmokeBasin.Tests.csproj", "{8410F578-074E-42BA-BBE1-2D8DA0EBEC5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +88,13 @@ Global
 		{973A2840-7ED1-49A1-BD2F-55A4FDD77F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{973A2840-7ED1-49A1-BD2F-55A4FDD77F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{973A2840-7ED1-49A1-BD2F-55A4FDD77F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB3A3F5-00FD-4D05-BCFD-4EB86D435DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB3A3F5-00FD-4D05-BCFD-4EB86D435DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB3A3F5-00FD-4D05-BCFD-4EB86D435DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB3A3F5-00FD-4D05-BCFD-4EB86D435DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8410F578-074E-42BA-BBE1-2D8DA0EBEC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8410F578-074E-42BA-BBE1-2D8DA0EBEC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8410F578-074E-42BA-BBE1-2D8DA0EBEC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8410F578-074E-42BA-BBE1-2D8DA0EBEC5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
