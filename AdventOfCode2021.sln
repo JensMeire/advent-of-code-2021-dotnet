@@ -54,6 +54,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D15_Chiton", "D15_Chiton\D1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D15_Chiton.Tests", "D15_Chiton.Tests\D15_Chiton.Tests.csproj", "{ED8C4704-3A6C-4C61-8258-52B7478E63F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D16_PackageDecoder.Tests", "D16_PackageDecoder.Tests\D16_PackageDecoder.Tests.csproj", "{3BE20230-9688-4B82-B8A3-8A7C713AD459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D16_PackageDecoder", "D16_PackageDecoder\D16_PackageDecoder.csproj", "{5CE8C03C-9D7B-45C6-9FB6-D876F69AB1AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +172,13 @@ Global
 		{ED8C4704-3A6C-4C61-8258-52B7478E63F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED8C4704-3A6C-4C61-8258-52B7478E63F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED8C4704-3A6C-4C61-8258-52B7478E63F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE20230-9688-4B82-B8A3-8A7C713AD459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE20230-9688-4B82-B8A3-8A7C713AD459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE20230-9688-4B82-B8A3-8A7C713AD459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE20230-9688-4B82-B8A3-8A7C713AD459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE8C03C-9D7B-45C6-9FB6-D876F69AB1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE8C03C-9D7B-45C6-9FB6-D876F69AB1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE8C03C-9D7B-45C6-9FB6-D876F69AB1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE8C03C-9D7B-45C6-9FB6-D876F69AB1AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
