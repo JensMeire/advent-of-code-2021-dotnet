@@ -58,6 +58,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D16_PackageDecoder.Tests", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D16_PackageDecoder", "D16_PackageDecoder\D16_PackageDecoder.csproj", "{5CE8C03C-9D7B-45C6-9FB6-D876F69AB1AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D17_TrickShot", "D17_TrickShot\D17_TrickShot.csproj", "{98559513-E92C-4637-81A5-67C925587FB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,5 +182,9 @@ Global
 		{5CE8C03C-9D7B-45C6-9FB6-D876F69AB1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CE8C03C-9D7B-45C6-9FB6-D876F69AB1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CE8C03C-9D7B-45C6-9FB6-D876F69AB1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98559513-E92C-4637-81A5-67C925587FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98559513-E92C-4637-81A5-67C925587FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98559513-E92C-4637-81A5-67C925587FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98559513-E92C-4637-81A5-67C925587FB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
